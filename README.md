@@ -10,3 +10,6 @@ simple Detector can be built around the information provided just simply check t
 else if it is about 1.6875ms a 1 is flagged .
 
 -Implementation is based on Interrupts instead of polling to save cpu time
+
+-Simple Project Video is Provided
+https://drive.google.com/drive/folders/1VeE8Cfg5SvPk6P9ttp5yb5Isik55ExJo
